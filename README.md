@@ -30,9 +30,6 @@ To deploy this project run
 npm run deploy
 ```
 
-Hosted on
-
-https://vikashgangwar.github.io/habit-tracker-react-app/
 
 ## Tech Stack
 
